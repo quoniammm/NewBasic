@@ -1,1 +1,2 @@
-# NewBasic（基石系列）
+# NewBasic
+This is about how I use pytorch
